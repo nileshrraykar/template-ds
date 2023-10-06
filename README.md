@@ -1,2 +1,2 @@
-# template-ds
+# Readme
 Template repo for data science
